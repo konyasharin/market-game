@@ -1,0 +1,4 @@
+export const FACTORY_TYPE = {
+  HIGH_TECHNOLOGY: 'HIGH_TECHNOLOGY',
+  AGRICULTURE: 'AGRICULTURE',
+} as const;
